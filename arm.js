@@ -10,3 +10,6 @@ if (arm == plus) {
 } else {
   console.log(number + "number is not armstrong");
 }
+
+
+delet this line please
