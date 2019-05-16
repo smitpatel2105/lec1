@@ -13,3 +13,6 @@ else
 {
 	console.log(number + "number is not armstrong");
 }
+
+
+demo line.please delet it
